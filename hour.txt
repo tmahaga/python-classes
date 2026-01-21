@@ -1,0 +1,9 @@
+hours: 10
+Rate: 4.1
+Gross pay 10
+hours: 10
+Rate: 4.1
+Gross pay 10
+hours: 10
+Rate: 4.1
+Gross pay 41.0

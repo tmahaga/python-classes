@@ -1,0 +1,5 @@
+This is a sample text
+The sum is 40
+last name: alvin
+score: 20
+Budget 500.0

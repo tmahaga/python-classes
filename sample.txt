@@ -1,0 +1,11 @@
+This is sample text
+a=20
+b=40.3
+name ='Tuzinde'
+tall = True
+sum = (a+b)
+sum 60.3
+The sum is 60.3
+Name isntand sum is 60.3
+The sum is 40
+The sum is 40
