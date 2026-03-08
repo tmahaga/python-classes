@@ -1,9 +1,9 @@
-
+#Mbaga Tuzinde mahaga 
+#Admission no:BSCIT-01-0064/2025
 
 from os import name
 
-#Mbaga Tuzinde mahaga 
-#Admission no:BSCIT-01-0064/2025
+
 print("Hello world")
 #pthon files:create/open, write, close
 f = open("C:\\Users\\Admin\\Desktop\\pyhton class\\sample.txt","w") #create and open file in write mode

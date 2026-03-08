@@ -1,0 +1,24 @@
+# i. Prompt the user to enter marks for 2 subjects
+subject1 = float(input("Enter marks for Mathematics: "))
+subject2 = float(input("Enter marks for Computer Science: "))
+
+# ii. Find the average of the marks
+average = (subject1 + subject2) / 2
+
+# iii. Use an elif condition to decide the grade based on the average
+if average >= 70 and average <= 100:
+    grade = "A"
+elif average >= 60:
+    grade = "B"
+elif average >= 50:
+    grade = "C"
+elif average >= 40:
+    grade = "D"
+else:
+    grade = "E (Fail)"
+
+# Display the results
+print("-" * 30)
+print(f"Average Mark: {average}")
+print(f"Final Grade:  {grade}")
+print("-" * 30)

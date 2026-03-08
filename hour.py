@@ -1,3 +1,5 @@
+#Mbaga Tuzinde mahaga 
+#Admission no:BSCIT-01-0064/2025
 #hours
 #file
 f=open ("C:\\Users\\Admin\\Desktop\\pyhton class\\hour.txt","a")

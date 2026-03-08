@@ -2,7 +2,7 @@
 # Admission no: BSCIT-01-0064/2025
 # Number Guessing Game
 
-f = open("C:\\Users\\Admin\\Desktop\\pyhton class\\numberguess.txt", "w")
+f=open("C:\\Users\\Admin\\Desktop\\pyhton class\\numberguess.txt", "w")
 
 number = 100  # number to guess
 
@@ -10,7 +10,7 @@ while True:
     guess = int(input("Guess the number between 0 and 100: "))
 
     if guess < 0 or guess > 100:
-        print("Invalid input! Please enter a number between 0 and 100.")
+        print("Invalid input! Please enter a number between 0 and 100.",)
     
     elif guess == number:
         print("YOU WIN!!")
@@ -18,9 +18,9 @@ while True:
         break
     
     elif guess > number:
-        print("Too high, try again.")
+        print("Too high, try again.",file=f)
     
     else:
-        print("Too low, try again.")
+        print("Too low, try again.",file=f)
 
 f.close()

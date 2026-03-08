@@ -1,0 +1,2 @@
+dict_items([('name', 'Mbaga Tuzinde Mahaga'), ('age', 20), ('Reg_NO', 'bscit-01-0064/2025'), ('bank balance', 25000000), ('DoB', '14th February 2006')])
+{'name': 'Mbaga Tuzinde Mahaga', 'age': 20, 'Reg_NO': 'bscit-01-0064/2025', 'bank balance': 25000000, 'DoB': '14th February 2006'}
